@@ -8,3 +8,5 @@ or happy about it. Upon that basis, a dataset of Indonesian-language tweets conv
 few public emotion text datasets in Indonesian language also supports our basis in this research to form our emotion dataset. The gathered data was cleaned and
 normalized in the pre-processing stage to the necessary form for study on the task of classifying emotions in Indonesian. The data formed is annotated with six
 emotional labels, namely anger, fear, joy, love, sad, and neutral.
+
+## The Data
