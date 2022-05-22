@@ -37,3 +37,15 @@ To access this dataset research paper in order to get a more elaborate understan
 4. P. Shaver, J. Schwartz, D. Kirson, & C. O'Connor, 1987. Emotion Knowledge: Further Exploration of a Prototype Approach. Journal of Personality aid Social Psychology. 52, 6. 1061-1086. https://doi.org/10.1037//0022-3514.52.6.1061.
 5. W. G. Parrott, Emotions in social psychology: Essential readings (Eds.), Psychology Press, New York, USA, 2001.
 6. A. J. Viera & J. M. Garrett, 2005. Understanding Interobserver Agreement: The Kappa Statistic. Family Medicine. 37, 5. 360-363. PMID: 15883903.
+
+# Licensed
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
