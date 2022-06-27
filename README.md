@@ -36,8 +36,10 @@ To access this dataset research paper in order to get a more elaborate understan
 2. E. Nugraheni, Indonesian Twitter Data Pre-processing for the Emotion Recognition, 2019 International Seminar on Research of Info. Tech. & Intelligent Systems (ISRITI). (2019) 58-63. Yogyakarta, Indonesia: IEEE. https://doi.org/10.1109/ISRITI48646.2019.9034653.
 3. M. S. Saputri, R. Mahendra, & M. Adriani, Emotion Classification on Indonesian Twitter Dataset, 2018 Int. Conf. on Asian Language Processing (IALP). (2018) 90-95. Bandung, Indonesia: IEEE. https://doi.org/10.1109/IALP.2018.8629262.
 4. P. Shaver, J. Schwartz, D. Kirson, & C. O'Connor, 1987. Emotion Knowledge: Further Exploration of a Prototype Approach. Journal of Personality aid Social Psychology. 52, 6. 1061-1086. https://doi.org/10.1037//0022-3514.52.6.1061.
-5. W. G. Parrott, Emotions in social psychology: Essential readings (Eds.), Psychology Press, New York, USA, 2001.
-6. A. J. Viera & J. M. Garrett, 2005. Understanding Interobserver Agreement: The Kappa Statistic. Family Medicine. 37, 5. 360-363. PMID: 15883903.
+5. W. G. Parrott, Emotions in social psychology: Essential readings (Eds.), Psychology Press, New York, USA, 2001. ISBN: 9780863776823.
+6. S. Kusal, S. Patil, J. Choudrie, K. Kotecha, D. Vora, & I. Pappas, 2022. A Review on Text-Based Emotion Detection -- Techniques, Applications, Datasets, and Future Directions. arXiv. 1-74. https://doi.org/10.48550/arXiv.2205.03235.
+7. A. J. Viera & J. M. Garrett, 2005. Understanding Interobserver Agreement: The Kappa Statistic. Family Medicine. 37, 5. 360-363. PMID: 15883903.
+8. J. Devlin, M. W. Chang, K. Lee, & K. Toutanova, BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Proc. of the 2019 Conf. of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 1 (2019) 4171-4186. Minneapolis, Minnesota: Association for Computational Linguistics. http://dx.doi.org/10.18653/v1/N19-1423.
 
 
 # Licensed
