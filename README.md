@@ -29,7 +29,7 @@ Stop-words normalization were not implemented, and there was no token normalizat
 If you only want to perform feature/token extraction, it's recommended to perform data normalization first.
 
 ## Additional Information
-To access this dataset research paper in order to get a more elaborate understanding, please access the DOI: **DOI NUMBER** (COMING SOON)
+To access this dataset research paper in order to get a more elaborate understanding, please access the DOI: https://doi.org/10.1016/j.dib.2022.108465
 
 ## Paper References
 1. P. R. Shaver, U. Murdaya, & R. Chris Fraley, Structure of the Indonesian Emotion Lexicon, Asian J. of Soc. Psyc. 4 (2001) 201-224. https://doi.org/10.1111/1467-839X.00086.
